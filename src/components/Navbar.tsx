@@ -16,7 +16,6 @@ import {
 } from '@mui/material';
 import MenuIcon from '@mui/icons-material/Menu';
 import CloseIcon from '@mui/icons-material/Close';
-import { motion } from 'framer-motion';
 import Slide from '@mui/material/Slide';
 
 export default function Navbar() {
