@@ -37,7 +37,7 @@ export default function Navbar() {
         position="fixed"
         sx={{
           zIndex: 1100,
-          backgroundColor: '#D7CCC8', // Cokelat muda
+          backgroundColor: '#D7CCC8', 
           color: '#5D4037',           // Cokelat tua untuk teks
           boxShadow: '0 2px 6px rgba(0,0,0,0.15)',
         }}
